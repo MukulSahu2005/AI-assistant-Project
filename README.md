@@ -119,7 +119,7 @@ Make sure Ollama is accessible at `http://localhost:11434`.
 
 ```
 
-git clone https://github.com/Bhimashri-Deka/miniature-goggles
+git clone https://github.com/MukulSahu2005/AI-assistant-Project
 ```
 cd miniature-goggles
 
