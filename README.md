@@ -169,5 +169,5 @@ pip install -r requirements.txt
 
 ## Author
 
-**Bhimashri Deka**  
+**Mukul Sahu**  
 ---
